@@ -80,3 +80,6 @@ Função principal que:
   - Número total de veículos detectados.
 - Outra janela exibindo a máscara de subtração de fundo.
 
+## Link para o video
+https://drive.google.com/file/d/1BLfvjqj5O3fBjWBtE75EP8aVxeeL4Rmn/view?usp=sharing
+
